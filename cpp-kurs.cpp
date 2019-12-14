@@ -35,7 +35,7 @@ int main() {
     }
 
 	else {
-		cout << "Kein Rabatt: " << preis << endl;
+		cout << "Kein Rabatt (zu geringer Preis): " << preis << endl;
 
 	}
 
